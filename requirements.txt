@@ -1,0 +1,17 @@
+tqdm==4.45.0
+pandas==1.5.3
+sentence_transformers==2.2.2
+ujson
+gitpython==3.1.30
+nltk
+scikit-learn
+datasets==2.14.3
+mlflow
+tensorboard
+faiss-cpu
+paddlepaddle-gpu==2.1.1
+huggingface-hub==0.16.3
+transformers==4.6.1
+rocketqa==1.1.0
+seaborn
+omegaconf==2.1.2

@@ -1,0 +1,10 @@
+name: nevir
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - cudatoolkit=10.1
+  - faiss-gpu
+  - conda-forge::openjdk=11.0.15
